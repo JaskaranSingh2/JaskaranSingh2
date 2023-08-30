@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @JaskaranSingh2
-- Uh, I'm a high school developer going into engineering and I'm trying to get better at programming fs
+Student at the Faculty of Engineering at the University of Alberta.
