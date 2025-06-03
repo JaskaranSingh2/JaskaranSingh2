@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋 Hi there! I'm Jaskaran Singh<br>🎓 Computer Engineering (Software-Specialization) Student at the University of Alberta. Expected graduation in April 2028.<br>💻 Full-Stack Developer with experience in ReactJS/Next.js, Python, R, and Java.<br>🚀 Passionate about Robotics, AI, and Hardware Development - always looking to bridge the gap between software and hardware!<br>🛠️ Currenty - Manage Web Development Operations at Sarbloh Studio Publishing as well as overseeing the development of an ML Manuscript-decoding model.<br>🌍 Community-Oriented - Engaged in initiatives like Youth Parliament of Canada and Sarbloh Studio Publishing, focusing on policy and preserving cultural heritage.<br>🏆 Awards & Honors - Recipient of the University of Alberta Opportunities Entrance Award and the Rutherford Scholarship.<br>📚 Always Learning - Former student at the Quantum School for Young Students, exploring Quantum Computing.
+# About Me:
+Hi, I’m Jaskaran Singh, a Computer Engineering student at the University of Alberta.
+My primary focus is on embedded systems, hardware-software integration, and low-level programming. I have hands-on experience with STM32 microcontrollers, ARM assembly, and VHDL for FPGA development. I’m also comfortable with basic digital logic design, real-time systems, and peripheral interfacing.
+In parallel, I work on developing smart home automation solutions, aiming to build custom hardware prototypes, and writing efficient firmware to control and integrate sensor networks.
+While my core expertise is predominantly in the field of systems and embedded development (with the intention to delve into the field of Generative-AI), I also have experience in full-stack development using ReactJS/Next.js, Python, and Java, which I apply to interface and visualize hardware data when needed.
 
 
 ## 🌐 Socials:
